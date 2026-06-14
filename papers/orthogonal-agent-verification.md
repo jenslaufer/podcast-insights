@@ -15,6 +15,10 @@ source: "curated reading list (Jens)"
 
 The ten papers split into five families by *how* they create independence.
 
+Each paper also has its own one-page note in
+[`orthogonal-agent-verification/`](orthogonal-agent-verification/) — problem,
+method, result, takeaway, and how it maps to our stack.
+
 ---
 
 ## 1. Redundancy — same model, many paths, agreement filters noise
