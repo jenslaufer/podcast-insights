@@ -3,8 +3,9 @@
 Distilled field notes: practical, hands-on, marketing-heavy takeaways. One file
 per episode. No transcripts.
 
-**Start here:** [`marketing-playbook.md`](marketing-playbook.md) — every
-marketing/growth tip across all notes, deduped and grouped into 10 themes.
+**Start here:**
+- [`marketing-playbook.md`](marketing-playbook.md) — every marketing/growth tip across all notes, deduped into 10 themes.
+- [`business-opportunities.md`](business-opportunities.md) — every concrete business idea, grouped by category with monetization + audience-light tags.
 
 ## Episodes
 
