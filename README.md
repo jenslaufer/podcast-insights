@@ -7,6 +7,7 @@ Organized by source:
 - [`greg-isenberg/`](greg-isenberg/) — The Startup Ideas Podcast
 - [`linear-digressions/`](linear-digressions/) — Linear Digressions (machine learning & data science)
 - [`the-gist-talk/`](the-gist-talk/) — The Gist Talk (AI-native company building, AI & investing)
+- [`my-rejection-story/`](my-rejection-story/) — My Rejection Story (negativity bias, tiny experiments, mindful productivity)
 - [`papers/`](papers/) — research paper surveys and distillations
 
 Cross-source syntheses:
