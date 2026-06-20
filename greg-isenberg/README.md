@@ -37,6 +37,7 @@ per episode. No transcripts.
 - [A/B-test startups in seconds](ab-test-startups-claude-code.md)
 - [AI design workflow that doesn't ship slop](ai-design-workflow-no-slop-meng-to.md) — Meng To
 - [Design with Weavy AI — no slop](design-with-weavy-no-slop.md)
+- [Claude Design blew my mind](claude-design-blew-my-mind.md) — wireframes/decks 9/10, video 5/10; prompts + questionnaire
 - [The "Last 30 Days" Claude Code skill](last-30-days-skill.md)
 - [Obsidian + Claude Code as a personal OS](obsidian-claude-code-personal-os.md)
 
