@@ -33,12 +33,24 @@ Richtige Frage: **„Auf welches schon existierende Verlangen zeige ich damit?"*
 Jede Woche, klein und konkret. Lieber roh und echt als perfekt.
 
 ### Rep A — Distribution-Map für eine Nische (20 Min)
-Eine Nische wählen. Aufschreiben:
-1. **20 Orte, wo ihre Aufmerksamkeit schon hinfließt** (Newsletter, Creator,
-   Reddit/Foren, Slack/Discord, Podcasts, Events, Suchbegriffe, Tools die sie zahlen).
-2. **Ein schmerzhafter Satz, den sie laut sagen würden** — in *ihren* Worten, nicht meinen.
-   Dieser Satz ist der Anfang jeder Distribution.
-*(Ein vollständiges Beispiel unten.)*
+**Nicht frei 20 Orte raten — meine eigene Channel-Bibliothek benutzen.** Ich habe
+dafür längst ein Werkzeug: die `channel-fit`-Skill mit den **19 Traction-Kanälen**
+(`~/.claude/marketing-channels/README.md`). Das ist die Landkarte; die improvisierte
+„20 Orte"-Liste war eine schwächere Version davon. Also:
+
+1. **Die 19 Kanäle durchgehen**, für die Nische je **Fit / Vielleicht / Nein** mit
+   einem Satz Begründung. Kein Kanal wird stillschweigend übersprungen.
+2. **Die Fits ranken (Bullseye):** 2–3 zum *billig Testen* zuerst (hohe
+   Unmittelbarkeit + Feedback), dazu ≥1 dauerhafter *Owned*-Kanal, in den der
+   Gewinner skaliert (hohe Skalierbarkeit + Nachhaltigkeit).
+3. **Ein schmerzhafter Satz, den sie laut sagen würden** — in *ihren* Worten, nicht
+   meinen. Dieser Satz ist der Anfang jeder Distribution und die Botschaft, die in
+   die Bullseye-Kanäle läuft.
+
+So wird aus „wo poste ich" eine echte Karte. Will ich zusätzlich wissen, ob ein
+Zielumsatz realistisch ist, rechnet `channel-fit` den Funnel rückwärts
+(Umsatz ÷ Preis → Kunden ÷ Conversion → nötiger Traffic pro Kanal).
+*(Vollständig durchgerechnetes Beispiel unten — meine 20 Orte auf die 19 Kanäle sortiert.)*
 
 ### Rep B — 20 Hooks für eine Idee (20 Min)
 Eine Idee, zwanzig Aufhänger, gestreut über: Neugier / Angst / Status / Geld /
@@ -69,28 +81,41 @@ wachsende Sammlung an (Field-Notes sind schon der Anfang davon).
 Vorlage — dieselbe Übung lässt sich auf Pendler (FK), Steuer/e-Rechnung,
 Health-Calculator anwenden.*
 
-**20 Orte, wo die Aufmerksamkeit meiner Käufer (CISO / IT-Leiter / IAM-Projektleiter) schon ist:**
+Profil der Nische: **B2B, sales-assisted, hoher Tagessatz/ACV, enge Zielgruppe**
+(CISO / IT-Leiter / IAM-Projektleiter), **dünne Suchnachfrage** (Begriffe wie
+„SailPoint Freelancer" haben kaum Volumen). Das verschiebt die Fits weg von Paid/SEO
+hin zu präzisen, vertrauensgetriebenen Kanälen.
 
-1. freelancermap.com — Projekt-Postfach (bin drauf)
-2. GULP — Projektbörse DACH
-3. Recruiter-Netze: Hays, Michael Page, Computer Futures (IAM-Desks)
-4. LinkedIn — #IAM / #IdentityManagement, IAM-Gruppen, CISO-Feeds
-5. XING — im DACH-Freelancer-Markt noch relevant
-6. KuppingerCole — Analyst, Blog, **EIC (European Identity Conference)**
-7. Gartner IAM Summit
-8. **IDPro** — Berufsverband für IAM-Leute (Body of Knowledge, Slack)
-9. Hersteller-Ökosysteme: SailPoint, One Identity, Ping, Okta — Partner- & User-Communities
-10. **it-sa Nürnberg** — größte IT-Security-Messe DE
-11. Heise / iX / c't Security — Artikel + Foren
-12. BSI-Publikationen — Vertrauenssignal im deutschen Markt
-13. Reddit: r/identitymanagement, r/cybersecurity, r/sysadmin
-14. Podcast **„Identity at the Center"** — DER IAM-Podcast
-15. Newsletter: Return on Security, tl;dr sec, KuppingerCole-Newsletter
-16. OWASP- & ISACA-Germany-Chapter-Meetups (IRL → Skill 6)
-17. GitHub / Stack Overflow — Keycloak, SailPoint-Threads (Expertise zeigen)
-18. Keycloak-Community (Discourse, Discord) — mein technischer Anker
-19. Suchbegriffe: „Interim IAM Berater", „SailPoint Freelancer", „Keycloak Consultant freelance"
-20. **Trigger-Events**: neue CISO-Stelle, Datenleck, Audit-Deadline, Fusion, NIS2-Pflicht — der Moment, wo Budget entsteht
+**Die 20 Orte, sortiert auf die 19 Kanäle (Fit / Vielleicht / Nein):**
+
+| Kanal | Verdikt | Warum — und welche meiner 20 Orte hier liegen |
+|---|---|---|
+| **Existing Platforms** | **Fit** | Genau hier wird IAM-Freelance vergeben: freelancermap, GULP, LinkedIn organisch, Recruiter-Desks (Hays/Michael Page/Computer Futures). Sofort, hohe Reichweite. |
+| **Sales (Outbound)** | **Fit** | Hoher ACV trägt Direktansprache; höchste Präzision. Trigger-Events (neue CISO-Stelle, Datenleck, Audit-Deadline, NIS2-Pflicht) = der Moment, wo Budget entsteht. |
+| **Content Marketing** | **Fit** | Erklärungs-schwer, langer Vertrauenszyklus, Experten-Publikum. LinkedIn-Posts/Artikel um den schmerzhaften Satz. Der kompoundierende Owned-Motor. |
+| **Engineering as Marketing** | **Fit** | Meine Kernkompetenz: ein kleines „IAM-Implementierungs-Reifegrad-Check"-Tool → Leads + Autorität in einem. Doppelnutzen Distribution + Beweis. |
+| **Targeting Blogs/Newsletters** | **Fit** | Genau-meine-Leute-Medien: Podcast „Identity at the Center", Return on Security, tl;dr sec, KuppingerCole. Hohe Zielgenauigkeit. |
+| **Speaking Engagements** | **Fit** | EIC, it-sa, OWASP-/ISACA-Chapter, Podcast-Gast. Baut Autorität im Experten-B2B (schlecht skalierbar, dafür präzise). |
+| **Business Development** | **Fit** | Implementierungs-Partner von SailPoint/One Identity/Okta brauchen Überlauf-Freelancer; Recruiter-Beziehungen. Hebel über fremdes Vertrauen. |
+| **SEM (Paid Search)** | Vielleicht | Intent-Begriffe existieren, aber winziges Volumen; man bucht keinen Berater per Klick. Höchstens Marken-/Nischen-Test. |
+| **Social & Display Ads** | Vielleicht | Nur LinkedIn Ads (CISO/IAM-Titel präzise targetbar) — teuer pro Lead, nicht der Weg, wie Freelancer gebucht werden. |
+| **SEO** | Vielleicht | Wenig Volumen, aber hohe Intention; ein paar Ratgeber-Seiten zu „IAM-Projekt-Rettung" könnten ranken. Langer Horizont. |
+| **Email Marketing** | Vielleicht | Braucht erst eine Liste; ein kleiner IAM-Leiter-Newsletter als Owned-Asset, wenn Content/Tool Traffic bringen. |
+| **Community Building** | Vielleicht | IDPro-Slack, Keycloak-Community, Reddit (r/identitymanagement) — *mitmachen*, nicht eigene bauen. |
+| **Trade Shows** | Vielleicht | it-sa/EIC als Netzwerker, nicht als Aussteller (Stand zu teuer für Solo). |
+| **Offline Events** | Vielleicht | OWASP-/ISACA-Chapter-Meetups lokal — hochwertig, aber zeitintensiv. |
+| Affiliate · Offline Ads · Viral · PR · Unconventional PR | Nein | Kein Fit: privates High-ACV-B2B, nichts Trackbares/Newsworthy/Virales. (XING, BSI, Heise, GitHub = schwache Signale, keine eigenen Kanäle.) |
+
+**Bullseye — was ich zuerst billig teste (hohe Unmittelbarkeit + Feedback):**
+1. **Existing Platforms** — freelancermap/GULP/LinkedIn-Profil komplett um den
+   schmerzhaften Satz neu schreiben + 5 Recruiter-Desks gezielt anschreiben. (Tage, nicht Monate.)
+2. **Sales/Outbound an Trigger-Events** — 10 gezielte Ansprachen an IAM-Verantwortliche
+   in Firmen mit aktuellem Trigger (NIS2-Deadline, frischer Breach, neue CISO).
+3. **Content auf LinkedIn** — 1 Post/Woche, der den schmerzhaften Satz spiegelt; füttert die beiden anderen.
+
+**Owned-Kanal zum Reinskalieren des Gewinners:** Content Marketing (LinkedIn →
+eigener Newsletter) + das Reifegrad-Check-Tool. Beide überleben ohne Budget und
+kompoundieren Autorität — das ist der Unterschied zwischen Akquise-Hamsterrad und Asset.
 
 **Der schmerzhafte Satz, den sie laut sagen:**
 > *„Wir haben vor zwei Jahren ein IAM-Tool gekauft, und es ist immer noch halb
