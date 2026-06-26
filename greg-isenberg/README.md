@@ -26,6 +26,7 @@ per episode. No transcripts.
 - [AI agents run my business and life](ai-agents-run-my-business-wilkinson.md) — Andrew Wilkinson
 
 ### Ideas & trends
+- ["Learn AI" is bad advice — learn these 6 skills instead](learn-ai-bad-advice-six-skills.md) — agent operator, distribution, robotics, curation, builder-distributor, IRL community (+ one rep each)
 - [9 startup opportunities in the AI boom](9-startup-opportunities-in-the-ai-boom.md)
 - [23 AI trends](23-ai-trends.md)
 - [Firecrawl — and how to make $$](firecrawl-make-money.md)
