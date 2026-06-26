@@ -13,6 +13,7 @@ Organized by source:
 Cross-source syntheses:
 
 - [`distribution-without-audience.md`](distribution-without-audience.md) — channels ranked by traction × feedback speed for a builder with no audience
+- [`distribution-skill-trainieren.md`](distribution-skill-trainieren.md) — Skill 2 als Handwerk trainieren: wöchentliche Reps + worked Distribution-Map (Freelance-IAM)
 - [`serendipitaet-actionplan.md`](serendipitaet-actionplan.md) — serendipity action plan
 - [`ideabrowser-curated.md`](ideabrowser-curated.md) — IdeaBrowser daily ideas, screened for my profile + German market
 - [`antifragility.md`](antifragility.md) — Taleb's antifragile triad, convexity, barbell & via negativa, with a solo-builder playbook
