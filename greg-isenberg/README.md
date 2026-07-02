@@ -20,6 +20,7 @@ per episode. No transcripts.
 - [Making $$$ with iOS apps](making-money-with-ios-apps.md) — gotcha feature + paid-ads recipe
 
 ### Agent businesses & monetization
+- [AI Agents are the new SaaS](ai-agents-are-the-new-saas.md) — the full "product is the job" playbook: paycheck-workflow filter, shadow the human, minimum useful agent, the wrapper = trust, sell the pilot like labor → productize, 30-day plan
 - [The $1M+ solo AI agent business](1m-solo-ai-agent-business.md)
 - [Start an AI agent business today](start-ai-agent-business-today.md)
 - [Making $$$ with OpenClaw](making-money-with-openclaw.md)
